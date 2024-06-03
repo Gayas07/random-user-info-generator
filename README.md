@@ -1,4 +1,4 @@
-# Random User Information Fetcher
+# Random User Information Generator
 
 ## Overview
 
